@@ -1,1 +1,11 @@
-
+{
+  "description": "dynamic.is-a.dev",
+  "repo": "https://github.com/Dynamic295/dynamic",
+  "owner": {
+    "username": "DynamicGaming295",
+    "email": "william@bertolini.net"
+  },
+  "record": {
+    "CNAME": "https://github.com/Dynamic295"
+  }
+}
